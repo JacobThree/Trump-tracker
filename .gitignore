@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Local config (contains API keys)
+assets/js/config.js
+
+# Misc
+.DS_Store
+.env

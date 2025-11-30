@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Wireframe Home">
+  <style>
+    .box { fill: #f9f9fb; stroke: #444; stroke-width: 2; }
+    .text { font: 16px Arial, sans-serif; fill: #222; }
+    .title { font: bold 24px Arial, sans-serif; }
+    .note { font: italic 14px Arial, sans-serif; fill: #555; }
+  </style>
+  <rect x="20" y="20" width="1160" height="60" class="box"/>
+  <text x="40" y="60" class="title">Home — Header/Nav</text>
+  <rect x="20" y="700" width="1160" height="60" class="box"/>
+  <text x="40" y="740" class="text">Footer</text>
+<rect x="40" y="120" width="340" height="200" class="box"/>
+<text x="50" y="144" class="text">KPI: Approval</text>
+<rect x="420" y="120" width="340" height="200" class="box"/>
+<text x="430" y="144" class="text">KPI: Jobs</text>
+<rect x="800" y="120" width="340" height="200" class="box"/>
+<text x="810" y="144" class="text">KPI: Promises</text>
+<rect x="40" y="350" width="1100" height="300" class="box"/>
+<text x="50" y="374" class="text">Intro / Explainer Text</text>
+</svg>

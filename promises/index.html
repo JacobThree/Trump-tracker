@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trump Tracker — Promises</title>
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/layout.css" />
+  <link rel="stylesheet" href="/assets/css/components.css" />
+  <meta name="color-scheme" content="light dark" />
+</head>
+
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <header class="site-header" role="banner">
+    <div class="container inner">
+      <div class="site-title"><a href="/" style="text-decoration:none;color:inherit">Trump Tracker</a></div>
+      <nav class="nav" role="navigation" aria-label="Main">
+        <ul class="nav-list">
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="/approval/index.html">Approval</a></li>
+          <li><a href="/economy/index.html">Economy</a></li>
+          <li><a href="/promises/index.html" aria-current='page'>Promises</a></li>
+          <li><a href="/contact/index.html">Contact</a></li>
+        </ul>
+      </nav>
+      <button id="theme-toggle" class="btn-icon" aria-label="Toggle dark mode"
+        style="background:none;border:none;cursor:pointer;font-size:1.2rem;">◑</button>
+    </div>
+  </header>
+
+  <main id="content" class="main container" role="main">
+
+    <article>
+      <header>
+        <h1>Promises</h1>
+        <p class="help">Data pulled from <a
+            href="https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/">Politifact
+            MAGA-Meter</a></p>
+      </header>
+
+      <div class="chips" role="group" aria-label="Filter promises by status">
+        <button class="chip" data-filter="all" aria-pressed="true">All</button>
+        <button class="chip" data-filter="in the works" aria-pressed="false">In the Works</button>
+        <button class="chip" data-filter="stalled" aria-pressed="false">Stalled</button>
+        <button class="chip" data-filter="compromise" aria-pressed="false">Compromise</button>
+        <button class="chip" data-filter="promise kept" aria-pressed="false">Kept</button>
+        <button class="chip" data-filter="promise broken" aria-pressed="false">Broken</button>
+      </div>
+
+      <div class="table-wrap" style="margin-top:1rem">
+        <table id="promises-table">
+          <caption>Promises</caption>
+          <thead>
+            <tr>
+              <th scope="col">Promise</th>
+              <th scope="col">Status</th>
+              <th scope="col">Notes</th>
+              <th scope="col">Source</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+      <p class="help">Updated <span id="promises-asof">—</span></p>
+    </article>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <p>Contact: <a href="mailto:jsmythe2@students.towson.edu">jsmythe2@students.towson.edu</a></p>
+    </div>
+  </footer>
+  <script src="/assets/js/main.js" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trump Tracker — Approval</title>
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/layout.css" />
+  <link rel="stylesheet" href="/assets/css/components.css" />
+  <meta name="color-scheme" content="light dark" />
+</head>
+
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <header class="site-header" role="banner">
+    <div class="container inner">
+      <div class="site-title"><a href="/" style="text-decoration:none;color:inherit">Trump Tracker</a></div>
+      <nav class="nav" role="navigation" aria-label="Main">
+        <ul class="nav-list">
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="/approval/index.html" aria-current='page'>Approval</a></li>
+          <li><a href="/economy/index.html">Economy</a></li>
+          <li><a href="/promises/index.html">Promises</a></li>
+          <li><a href="/contact/index.html">Contact</a></li>
+        </ul>
+      </nav>
+      <button id="theme-toggle" class="btn-icon" aria-label="Toggle dark mode"
+        style="background:none;border:none;cursor:pointer;font-size:1.2rem;">◑</button>
+    </div>
+  </header>
+
+  <main id="content" class="main container" role="main">
+
+    <article>
+      <header>
+        <h1>Approval</h1>
+        <p class="help">Data pulled from <a
+            href="https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin">Nate Silver Bulletin</a> on
+          11/29/2025.</p>
+      </header>
+
+
+      <div class="card" style="height:320px;">
+        <canvas id="approvalChart" aria-label="Trump approval and disapproval trend"></canvas>
+      </div>
+
+
+      <p class="help">
+        Latest:
+        <strong id="kpi-approval">—</strong> approve,
+        <strong id="kpi-disapproval">—</strong> disapprove,
+        net <strong id="kpi-approval-net">—</strong>
+        • as of <span id="kpi-approval-asof">—</span>
+      </p>
+
+    </article>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <p>Contact: <a href="mailto:jsmythe2@students.towson.edu">jsmythe2@students.towson.edu</a></p>
+    </div>
+  </footer>
+  <script src="/assets/js/data.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+  <script src="/assets/js/charts.js" defer></script>
+  <script src="/assets/js/main.js" defer></script>
+</body>
+
+</html>

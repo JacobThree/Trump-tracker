@@ -1,0 +1,2822 @@
+{
+  "as_of": "2025-11-29",
+  "series": [
+    {
+      "date": "2025-01-21",
+      "approve": 51.62839,
+      "disapprove": 39.97147,
+      "approve_lo": 45.85058,
+      "approve_hi": 57.40619,
+      "disapprove_lo": 34.19366,
+      "disapprove_hi": 45.74928
+    },
+    {
+      "date": "2025-01-22",
+      "approve": 51.62839,
+      "disapprove": 39.97147,
+      "approve_lo": 45.85058,
+      "approve_hi": 57.40619,
+      "disapprove_lo": 34.19366,
+      "disapprove_hi": 45.74928
+    },
+    {
+      "date": "2025-01-23",
+      "approve": 52.44161,
+      "disapprove": 43.17908,
+      "approve_lo": 47.50262,
+      "approve_hi": 57.38061,
+      "disapprove_lo": 38.24008,
+      "disapprove_hi": 48.11807
+    },
+    {
+      "date": "2025-01-24",
+      "approve": 51.9109,
+      "disapprove": 43.42716,
+      "approve_lo": 47.26645,
+      "approve_hi": 56.55534,
+      "disapprove_lo": 38.78272,
+      "disapprove_hi": 48.07161
+    },
+    {
+      "date": "2025-01-25",
+      "approve": 51.9109,
+      "disapprove": 43.42716,
+      "approve_lo": 47.26645,
+      "approve_hi": 56.55534,
+      "disapprove_lo": 38.78272,
+      "disapprove_hi": 48.07161
+    },
+    {
+      "date": "2025-01-26",
+      "approve": 51.60608,
+      "disapprove": 43.73387,
+      "approve_lo": 47.00677,
+      "approve_hi": 56.20538,
+      "disapprove_lo": 39.13456,
+      "disapprove_hi": 48.33317
+    },
+    {
+      "date": "2025-01-27",
+      "approve": 50.75071,
+      "disapprove": 43.54461,
+      "approve_lo": 46.3333,
+      "approve_hi": 55.16811,
+      "disapprove_lo": 39.1272,
+      "disapprove_hi": 47.96202
+    },
+    {
+      "date": "2025-01-28",
+      "approve": 50.5603,
+      "disapprove": 43.64887,
+      "approve_lo": 46.19315,
+      "approve_hi": 54.92745,
+      "disapprove_lo": 39.28172,
+      "disapprove_hi": 48.01602
+    },
+    {
+      "date": "2025-01-29",
+      "approve": 50.45234,
+      "disapprove": 43.76417,
+      "approve_lo": 46.08949,
+      "approve_hi": 54.81518,
+      "disapprove_lo": 39.40132,
+      "disapprove_hi": 48.12701
+    },
+    {
+      "date": "2025-01-30",
+      "approve": 50.55085,
+      "disapprove": 43.67509,
+      "approve_lo": 46.19232,
+      "approve_hi": 54.90939,
+      "disapprove_lo": 39.31656,
+      "disapprove_hi": 48.03363
+    },
+    {
+      "date": "2025-01-31",
+      "approve": 49.88923,
+      "disapprove": 43.76733,
+      "approve_lo": 45.54743,
+      "approve_hi": 54.23103,
+      "disapprove_lo": 39.42554,
+      "disapprove_hi": 48.10913
+    },
+    {
+      "date": "2025-02-01",
+      "approve": 49.77596,
+      "disapprove": 43.94174,
+      "approve_lo": 45.46407,
+      "approve_hi": 54.08786,
+      "disapprove_lo": 39.62984,
+      "disapprove_hi": 48.25363
+    },
+    {
+      "date": "2025-02-02",
+      "approve": 49.56835,
+      "disapprove": 44.43734,
+      "approve_lo": 45.29222,
+      "approve_hi": 53.84447,
+      "disapprove_lo": 40.16122,
+      "disapprove_hi": 48.71347
+    },
+    {
+      "date": "2025-02-03",
+      "approve": 49.06934,
+      "disapprove": 45.00368,
+      "approve_lo": 44.73444,
+      "approve_hi": 53.40424,
+      "disapprove_lo": 40.66879,
+      "disapprove_hi": 49.33858
+    },
+    {
+      "date": "2025-02-04",
+      "approve": 48.7685,
+      "disapprove": 45.06099,
+      "approve_lo": 44.42632,
+      "approve_hi": 53.11068,
+      "disapprove_lo": 40.71881,
+      "disapprove_hi": 49.40317
+    },
+    {
+      "date": "2025-02-05",
+      "approve": 48.64521,
+      "disapprove": 46.07553,
+      "approve_lo": 44.31398,
+      "approve_hi": 52.97645,
+      "disapprove_lo": 41.74429,
+      "disapprove_hi": 50.40676
+    },
+    {
+      "date": "2025-02-06",
+      "approve": 48.58174,
+      "disapprove": 45.97654,
+      "approve_lo": 44.29497,
+      "approve_hi": 52.86851,
+      "disapprove_lo": 41.68977,
+      "disapprove_hi": 50.26331
+    },
+    {
+      "date": "2025-02-07",
+      "approve": 48.93139,
+      "disapprove": 46.16331,
+      "approve_lo": 44.63564,
+      "approve_hi": 53.22714,
+      "disapprove_lo": 41.86756,
+      "disapprove_hi": 50.45906
+    },
+    {
+      "date": "2025-02-08",
+      "approve": 48.93139,
+      "disapprove": 46.16331,
+      "approve_lo": 44.63564,
+      "approve_hi": 53.22714,
+      "disapprove_lo": 41.86756,
+      "disapprove_hi": 50.45906
+    },
+    {
+      "date": "2025-02-09",
+      "approve": 49.20401,
+      "disapprove": 46.42096,
+      "approve_lo": 44.87601,
+      "approve_hi": 53.53201,
+      "disapprove_lo": 42.09296,
+      "disapprove_hi": 50.74897
+    },
+    {
+      "date": "2025-02-10",
+      "approve": 49.28339,
+      "disapprove": 46.40575,
+      "approve_lo": 44.96134,
+      "approve_hi": 53.60545,
+      "disapprove_lo": 42.08369,
+      "disapprove_hi": 50.7278
+    },
+    {
+      "date": "2025-02-11",
+      "approve": 48.9805,
+      "disapprove": 46.40917,
+      "approve_lo": 44.58626,
+      "approve_hi": 53.37474,
+      "disapprove_lo": 42.01337,
+      "disapprove_hi": 50.80497
+    },
+    {
+      "date": "2025-02-12",
+      "approve": 49.07721,
+      "disapprove": 46.33083,
+      "approve_lo": 44.6859,
+      "approve_hi": 53.46851,
+      "disapprove_lo": 41.93916,
+      "disapprove_hi": 50.72251
+    },
+    {
+      "date": "2025-02-13",
+      "approve": 49.46926,
+      "disapprove": 46.35511,
+      "approve_lo": 45.08833,
+      "approve_hi": 53.8502,
+      "disapprove_lo": 41.93874,
+      "disapprove_hi": 50.77148
+    },
+    {
+      "date": "2025-02-14",
+      "approve": 49.78413,
+      "disapprove": 46.23433,
+      "approve_lo": 45.42103,
+      "approve_hi": 54.14723,
+      "disapprove_lo": 41.87239,
+      "disapprove_hi": 50.59627
+    },
+    {
+      "date": "2025-02-15",
+      "approve": 49.78413,
+      "disapprove": 46.23433,
+      "approve_lo": 45.42103,
+      "approve_hi": 54.14723,
+      "disapprove_lo": 41.87239,
+      "disapprove_hi": 50.59627
+    },
+    {
+      "date": "2025-02-16",
+      "approve": 49.81136,
+      "disapprove": 46.47601,
+      "approve_lo": 45.41616,
+      "approve_hi": 54.20655,
+      "disapprove_lo": 42.07705,
+      "disapprove_hi": 50.87497
+    },
+    {
+      "date": "2025-02-17",
+      "approve": 48.97882,
+      "disapprove": 46.80212,
+      "approve_lo": 44.66964,
+      "approve_hi": 53.28801,
+      "disapprove_lo": 42.40267,
+      "disapprove_hi": 51.20156
+    },
+    {
+      "date": "2025-02-18",
+      "approve": 48.83451,
+      "disapprove": 47.10556,
+      "approve_lo": 44.51174,
+      "approve_hi": 53.15728,
+      "disapprove_lo": 42.68798,
+      "disapprove_hi": 51.52315
+    },
+    {
+      "date": "2025-02-19",
+      "approve": 48.81781,
+      "disapprove": 47.19585,
+      "approve_lo": 44.51099,
+      "approve_hi": 53.12464,
+      "disapprove_lo": 42.77919,
+      "disapprove_hi": 51.61251
+    },
+    {
+      "date": "2025-02-20",
+      "approve": 48.57818,
+      "disapprove": 47.20779,
+      "approve_lo": 44.206,
+      "approve_hi": 52.95036,
+      "disapprove_lo": 42.7366,
+      "disapprove_hi": 51.67897
+    },
+    {
+      "date": "2025-02-21",
+      "approve": 48.70716,
+      "disapprove": 47.15341,
+      "approve_lo": 44.34995,
+      "approve_hi": 53.06437,
+      "disapprove_lo": 42.71305,
+      "disapprove_hi": 51.59378
+    },
+    {
+      "date": "2025-02-22",
+      "approve": 48.70716,
+      "disapprove": 47.15341,
+      "approve_lo": 44.34995,
+      "approve_hi": 53.06437,
+      "disapprove_lo": 42.71305,
+      "disapprove_hi": 51.59378
+    },
+    {
+      "date": "2025-02-23",
+      "approve": 48.52215,
+      "disapprove": 47.25496,
+      "approve_lo": 44.07963,
+      "approve_hi": 52.96466,
+      "disapprove_lo": 42.7737,
+      "disapprove_hi": 51.73623
+    },
+    {
+      "date": "2025-02-24",
+      "approve": 48.62353,
+      "disapprove": 47.35507,
+      "approve_lo": 44.182,
+      "approve_hi": 53.06506,
+      "disapprove_lo": 42.89957,
+      "disapprove_hi": 51.81058
+    },
+    {
+      "date": "2025-02-25",
+      "approve": 48.19157,
+      "disapprove": 46.50638,
+      "approve_lo": 43.74551,
+      "approve_hi": 52.63762,
+      "disapprove_lo": 41.85268,
+      "disapprove_hi": 51.16008
+    },
+    {
+      "date": "2025-02-26",
+      "approve": 47.69238,
+      "disapprove": 46.84249,
+      "approve_lo": 43.30216,
+      "approve_hi": 52.0826,
+      "disapprove_lo": 42.28725,
+      "disapprove_hi": 51.39774
+    },
+    {
+      "date": "2025-02-27",
+      "approve": 48.16257,
+      "disapprove": 47.08207,
+      "approve_lo": 43.82611,
+      "approve_hi": 52.49903,
+      "disapprove_lo": 42.54069,
+      "disapprove_hi": 51.62346
+    },
+    {
+      "date": "2025-02-28",
+      "approve": 48.33131,
+      "disapprove": 47.11463,
+      "approve_lo": 44.05076,
+      "approve_hi": 52.61186,
+      "disapprove_lo": 42.58996,
+      "disapprove_hi": 51.6393
+    },
+    {
+      "date": "2025-03-01",
+      "approve": 48.26917,
+      "disapprove": 47.13979,
+      "approve_lo": 43.99157,
+      "approve_hi": 52.54676,
+      "disapprove_lo": 42.61616,
+      "disapprove_hi": 51.66343
+    },
+    {
+      "date": "2025-03-02",
+      "approve": 48.24833,
+      "disapprove": 47.25283,
+      "approve_lo": 44.00698,
+      "approve_hi": 52.48968,
+      "disapprove_lo": 42.76084,
+      "disapprove_hi": 51.74483
+    },
+    {
+      "date": "2025-03-03",
+      "approve": 48.22008,
+      "disapprove": 47.3167,
+      "approve_lo": 44.07259,
+      "approve_hi": 52.36758,
+      "disapprove_lo": 42.72628,
+      "disapprove_hi": 51.90712
+    },
+    {
+      "date": "2025-03-04",
+      "approve": 48.08179,
+      "disapprove": 47.43499,
+      "approve_lo": 43.89752,
+      "approve_hi": 52.26605,
+      "disapprove_lo": 42.85672,
+      "disapprove_hi": 52.01326
+    },
+    {
+      "date": "2025-03-05",
+      "approve": 48.04528,
+      "disapprove": 47.49095,
+      "approve_lo": 43.88107,
+      "approve_hi": 52.20948,
+      "disapprove_lo": 42.91648,
+      "disapprove_hi": 52.06542
+    },
+    {
+      "date": "2025-03-06",
+      "approve": 48.04528,
+      "disapprove": 47.49095,
+      "approve_lo": 43.88107,
+      "approve_hi": 52.20948,
+      "disapprove_lo": 42.91648,
+      "disapprove_hi": 52.06542
+    },
+    {
+      "date": "2025-03-07",
+      "approve": 48.10084,
+      "disapprove": 47.34626,
+      "approve_lo": 44.04194,
+      "approve_hi": 52.15974,
+      "disapprove_lo": 42.85209,
+      "disapprove_hi": 51.84044
+    },
+    {
+      "date": "2025-03-08",
+      "approve": 48.08615,
+      "disapprove": 47.32513,
+      "approve_lo": 44.02887,
+      "approve_hi": 52.14344,
+      "disapprove_lo": 42.81496,
+      "disapprove_hi": 51.8353
+    },
+    {
+      "date": "2025-03-09",
+      "approve": 48.08615,
+      "disapprove": 47.32513,
+      "approve_lo": 44.02887,
+      "approve_hi": 52.14344,
+      "disapprove_lo": 42.81496,
+      "disapprove_hi": 51.8353
+    },
+    {
+      "date": "2025-03-10",
+      "approve": 47.87268,
+      "disapprove": 48.1039,
+      "approve_lo": 43.68302,
+      "approve_hi": 52.06234,
+      "disapprove_lo": 43.66662,
+      "disapprove_hi": 52.54118
+    },
+    {
+      "date": "2025-03-11",
+      "approve": 48.01125,
+      "disapprove": 48.05174,
+      "approve_lo": 43.93159,
+      "approve_hi": 52.09092,
+      "disapprove_lo": 43.71781,
+      "disapprove_hi": 52.38567
+    },
+    {
+      "date": "2025-03-12",
+      "approve": 47.80142,
+      "disapprove": 48.4408,
+      "approve_lo": 43.76649,
+      "approve_hi": 51.83635,
+      "disapprove_lo": 44.05131,
+      "disapprove_hi": 52.83028
+    },
+    {
+      "date": "2025-03-13",
+      "approve": 47.34944,
+      "disapprove": 49.03124,
+      "approve_lo": 43.06135,
+      "approve_hi": 51.63753,
+      "disapprove_lo": 44.49454,
+      "disapprove_hi": 53.56793
+    },
+    {
+      "date": "2025-03-14",
+      "approve": 47.50919,
+      "disapprove": 48.91116,
+      "approve_lo": 43.276,
+      "approve_hi": 51.74237,
+      "disapprove_lo": 44.45956,
+      "disapprove_hi": 53.36277
+    },
+    {
+      "date": "2025-03-15",
+      "approve": 47.72628,
+      "disapprove": 48.74337,
+      "approve_lo": 43.39228,
+      "approve_hi": 52.06027,
+      "disapprove_lo": 44.27282,
+      "disapprove_hi": 53.21393
+    },
+    {
+      "date": "2025-03-16",
+      "approve": 47.68021,
+      "disapprove": 48.91003,
+      "approve_lo": 43.39926,
+      "approve_hi": 51.96117,
+      "disapprove_lo": 44.45418,
+      "disapprove_hi": 53.36587
+    },
+    {
+      "date": "2025-03-17",
+      "approve": 47.53214,
+      "disapprove": 49.36317,
+      "approve_lo": 43.3286,
+      "approve_hi": 51.73567,
+      "disapprove_lo": 44.83746,
+      "disapprove_hi": 53.88887
+    },
+    {
+      "date": "2025-03-18",
+      "approve": 47.55081,
+      "disapprove": 49.26982,
+      "approve_lo": 43.3554,
+      "approve_hi": 51.74622,
+      "disapprove_lo": 44.75301,
+      "disapprove_hi": 53.78663
+    },
+    {
+      "date": "2025-03-19",
+      "approve": 47.49081,
+      "disapprove": 49.65988,
+      "approve_lo": 43.32704,
+      "approve_hi": 51.65458,
+      "disapprove_lo": 45.20905,
+      "disapprove_hi": 54.11071
+    },
+    {
+      "date": "2025-03-20",
+      "approve": 47.39563,
+      "disapprove": 49.75119,
+      "approve_lo": 43.24761,
+      "approve_hi": 51.54364,
+      "disapprove_lo": 45.36366,
+      "disapprove_hi": 54.13873
+    },
+    {
+      "date": "2025-03-21",
+      "approve": 47.48177,
+      "disapprove": 49.65436,
+      "approve_lo": 43.31021,
+      "approve_hi": 51.65332,
+      "disapprove_lo": 45.26371,
+      "disapprove_hi": 54.04501
+    },
+    {
+      "date": "2025-03-22",
+      "approve": 47.5351,
+      "disapprove": 49.56881,
+      "approve_lo": 43.25347,
+      "approve_hi": 51.81673,
+      "disapprove_lo": 45.16459,
+      "disapprove_hi": 53.97303
+    },
+    {
+      "date": "2025-03-23",
+      "approve": 47.52748,
+      "disapprove": 49.58065,
+      "approve_lo": 43.25628,
+      "approve_hi": 51.79868,
+      "disapprove_lo": 45.1856,
+      "disapprove_hi": 53.97571
+    },
+    {
+      "date": "2025-03-24",
+      "approve": 47.52706,
+      "disapprove": 49.61984,
+      "approve_lo": 43.20314,
+      "approve_hi": 51.85097,
+      "disapprove_lo": 45.21014,
+      "disapprove_hi": 54.02954
+    },
+    {
+      "date": "2025-03-25",
+      "approve": 47.48824,
+      "disapprove": 49.64067,
+      "approve_lo": 43.21551,
+      "approve_hi": 51.76097,
+      "disapprove_lo": 45.30599,
+      "disapprove_hi": 53.97536
+    },
+    {
+      "date": "2025-03-26",
+      "approve": 47.66578,
+      "disapprove": 49.38222,
+      "approve_lo": 43.35771,
+      "approve_hi": 51.97385,
+      "disapprove_lo": 45.00001,
+      "disapprove_hi": 53.76442
+    },
+    {
+      "date": "2025-03-27",
+      "approve": 47.37044,
+      "disapprove": 49.60704,
+      "approve_lo": 43.02921,
+      "approve_hi": 51.71167,
+      "disapprove_lo": 45.27546,
+      "disapprove_hi": 53.93863
+    },
+    {
+      "date": "2025-03-28",
+      "approve": 47.37019,
+      "disapprove": 49.59669,
+      "approve_lo": 43.06321,
+      "approve_hi": 51.67718,
+      "disapprove_lo": 45.27298,
+      "disapprove_hi": 53.92041
+    },
+    {
+      "date": "2025-03-29",
+      "approve": 47.37019,
+      "disapprove": 49.59669,
+      "approve_lo": 43.06321,
+      "approve_hi": 51.67718,
+      "disapprove_lo": 45.27298,
+      "disapprove_hi": 53.92041
+    },
+    {
+      "date": "2025-03-30",
+      "approve": 47.60534,
+      "disapprove": 49.78962,
+      "approve_lo": 43.18983,
+      "approve_hi": 52.02085,
+      "disapprove_lo": 45.43279,
+      "disapprove_hi": 54.14645
+    },
+    {
+      "date": "2025-03-31",
+      "approve": 47.1512,
+      "disapprove": 49.71198,
+      "approve_lo": 42.78379,
+      "approve_hi": 51.51861,
+      "disapprove_lo": 45.18557,
+      "disapprove_hi": 54.23838
+    },
+    {
+      "date": "2025-04-01",
+      "approve": 47.23803,
+      "disapprove": 49.75965,
+      "approve_lo": 42.8421,
+      "approve_hi": 51.63397,
+      "disapprove_lo": 45.24705,
+      "disapprove_hi": 54.27225
+    },
+    {
+      "date": "2025-04-02",
+      "approve": 47.01505,
+      "disapprove": 50.05616,
+      "approve_lo": 42.70523,
+      "approve_hi": 51.32486,
+      "disapprove_lo": 45.48481,
+      "disapprove_hi": 54.62751
+    },
+    {
+      "date": "2025-04-03",
+      "approve": 46.61609,
+      "disapprove": 49.86424,
+      "approve_lo": 42.26794,
+      "approve_hi": 50.96424,
+      "disapprove_lo": 45.2114,
+      "disapprove_hi": 54.51709
+    },
+    {
+      "date": "2025-04-04",
+      "approve": 46.69425,
+      "disapprove": 49.88645,
+      "approve_lo": 42.32501,
+      "approve_hi": 51.06348,
+      "disapprove_lo": 45.2973,
+      "disapprove_hi": 54.47559
+    },
+    {
+      "date": "2025-04-05",
+      "approve": 46.77753,
+      "disapprove": 49.48341,
+      "approve_lo": 42.51933,
+      "approve_hi": 51.03572,
+      "disapprove_lo": 44.69736,
+      "disapprove_hi": 54.26946
+    },
+    {
+      "date": "2025-04-06",
+      "approve": 46.77753,
+      "disapprove": 49.48341,
+      "approve_lo": 42.51933,
+      "approve_hi": 51.03572,
+      "disapprove_lo": 44.69736,
+      "disapprove_hi": 54.26946
+    },
+    {
+      "date": "2025-04-07",
+      "approve": 46.59698,
+      "disapprove": 49.84406,
+      "approve_lo": 42.38907,
+      "approve_hi": 50.80489,
+      "disapprove_lo": 44.99933,
+      "disapprove_hi": 54.68878
+    },
+    {
+      "date": "2025-04-08",
+      "approve": 46.36172,
+      "disapprove": 50.16935,
+      "approve_lo": 42.31444,
+      "approve_hi": 50.40901,
+      "disapprove_lo": 45.47329,
+      "disapprove_hi": 54.86541
+    },
+    {
+      "date": "2025-04-09",
+      "approve": 45.6713,
+      "disapprove": 50.68967,
+      "approve_lo": 41.43717,
+      "approve_hi": 49.90543,
+      "disapprove_lo": 46.1213,
+      "disapprove_hi": 55.25803
+    },
+    {
+      "date": "2025-04-10",
+      "approve": 45.49072,
+      "disapprove": 50.68834,
+      "approve_lo": 41.15624,
+      "approve_hi": 49.82519,
+      "disapprove_lo": 45.99517,
+      "disapprove_hi": 55.38151
+    },
+    {
+      "date": "2025-04-11",
+      "approve": 45.52261,
+      "disapprove": 50.61037,
+      "approve_lo": 41.19816,
+      "approve_hi": 49.84706,
+      "disapprove_lo": 46.00403,
+      "disapprove_hi": 55.21671
+    },
+    {
+      "date": "2025-04-12",
+      "approve": 45.52261,
+      "disapprove": 50.61037,
+      "approve_lo": 41.19816,
+      "approve_hi": 49.84706,
+      "disapprove_lo": 46.00403,
+      "disapprove_hi": 55.21671
+    },
+    {
+      "date": "2025-04-13",
+      "approve": 45.69746,
+      "disapprove": 50.76309,
+      "approve_lo": 41.41474,
+      "approve_hi": 49.98018,
+      "disapprove_lo": 46.13425,
+      "disapprove_hi": 55.39192
+    },
+    {
+      "date": "2025-04-14",
+      "approve": 45.50497,
+      "disapprove": 50.84331,
+      "approve_lo": 41.34505,
+      "approve_hi": 49.66489,
+      "disapprove_lo": 46.44841,
+      "disapprove_hi": 55.23821
+    },
+    {
+      "date": "2025-04-15",
+      "approve": 45.77077,
+      "disapprove": 50.49058,
+      "approve_lo": 41.60901,
+      "approve_hi": 49.93252,
+      "disapprove_lo": 45.85512,
+      "disapprove_hi": 55.12604
+    },
+    {
+      "date": "2025-04-16",
+      "approve": 45.57057,
+      "disapprove": 50.554,
+      "approve_lo": 41.30833,
+      "approve_hi": 49.8328,
+      "disapprove_lo": 45.88452,
+      "disapprove_hi": 55.22348
+    },
+    {
+      "date": "2025-04-17",
+      "approve": 45.54875,
+      "disapprove": 50.78891,
+      "approve_lo": 41.61065,
+      "approve_hi": 49.48685,
+      "disapprove_lo": 46.37317,
+      "disapprove_hi": 55.20465
+    },
+    {
+      "date": "2025-04-18",
+      "approve": 45.62852,
+      "disapprove": 50.84605,
+      "approve_lo": 41.65625,
+      "approve_hi": 49.6008,
+      "disapprove_lo": 46.45914,
+      "disapprove_hi": 55.23296
+    },
+    {
+      "date": "2025-04-19",
+      "approve": 45.62852,
+      "disapprove": 50.84605,
+      "approve_lo": 41.65625,
+      "approve_hi": 49.6008,
+      "disapprove_lo": 46.45914,
+      "disapprove_hi": 55.23296
+    },
+    {
+      "date": "2025-04-20",
+      "approve": 45.57781,
+      "disapprove": 50.58267,
+      "approve_lo": 41.62415,
+      "approve_hi": 49.53147,
+      "disapprove_lo": 46.09466,
+      "disapprove_hi": 55.07067
+    },
+    {
+      "date": "2025-04-21",
+      "approve": 45.57188,
+      "disapprove": 50.71266,
+      "approve_lo": 41.43221,
+      "approve_hi": 49.71154,
+      "disapprove_lo": 46.09001,
+      "disapprove_hi": 55.3353
+    },
+    {
+      "date": "2025-04-22",
+      "approve": 45.37512,
+      "disapprove": 50.80691,
+      "approve_lo": 41.2526,
+      "approve_hi": 49.49765,
+      "disapprove_lo": 46.2536,
+      "disapprove_hi": 55.36022
+    },
+    {
+      "date": "2025-04-23",
+      "approve": 44.77065,
+      "disapprove": 51.75135,
+      "approve_lo": 40.50203,
+      "approve_hi": 49.03926,
+      "disapprove_lo": 46.95964,
+      "disapprove_hi": 56.54306
+    },
+    {
+      "date": "2025-04-24",
+      "approve": 44.65628,
+      "disapprove": 51.82948,
+      "approve_lo": 40.48874,
+      "approve_hi": 48.82383,
+      "disapprove_lo": 47.13156,
+      "disapprove_hi": 56.5274
+    },
+    {
+      "date": "2025-04-25",
+      "approve": 44.39426,
+      "disapprove": 52.15824,
+      "approve_lo": 40.21141,
+      "approve_hi": 48.57711,
+      "disapprove_lo": 47.56334,
+      "disapprove_hi": 56.75315
+    },
+    {
+      "date": "2025-04-26",
+      "approve": 44.38961,
+      "disapprove": 52.4029,
+      "approve_lo": 40.07028,
+      "approve_hi": 48.70895,
+      "disapprove_lo": 47.67092,
+      "disapprove_hi": 57.13487
+    },
+    {
+      "date": "2025-04-27",
+      "approve": 44.13982,
+      "disapprove": 53.19659,
+      "approve_lo": 39.80687,
+      "approve_hi": 48.47276,
+      "disapprove_lo": 48.35141,
+      "disapprove_hi": 58.04178
+    },
+    {
+      "date": "2025-04-28",
+      "approve": 44.07494,
+      "disapprove": 53.3185,
+      "approve_lo": 39.75413,
+      "approve_hi": 48.39574,
+      "disapprove_lo": 48.53637,
+      "disapprove_hi": 58.10063
+    },
+    {
+      "date": "2025-04-29",
+      "approve": 43.58434,
+      "disapprove": 53.24288,
+      "approve_lo": 39.32087,
+      "approve_hi": 47.84782,
+      "disapprove_lo": 48.67851,
+      "disapprove_hi": 57.80725
+    },
+    {
+      "date": "2025-04-30",
+      "approve": 43.76714,
+      "disapprove": 52.75912,
+      "approve_lo": 39.64638,
+      "approve_hi": 47.88789,
+      "disapprove_lo": 47.98701,
+      "disapprove_hi": 57.53124
+    },
+    {
+      "date": "2025-05-01",
+      "approve": 43.91924,
+      "disapprove": 52.67301,
+      "approve_lo": 39.70688,
+      "approve_hi": 48.13159,
+      "disapprove_lo": 47.88822,
+      "disapprove_hi": 57.45781
+    },
+    {
+      "date": "2025-05-02",
+      "approve": 44.16411,
+      "disapprove": 52.42725,
+      "approve_lo": 39.88832,
+      "approve_hi": 48.4399,
+      "disapprove_lo": 47.65285,
+      "disapprove_hi": 57.20164
+    },
+    {
+      "date": "2025-05-03",
+      "approve": 44.17439,
+      "disapprove": 51.80098,
+      "approve_lo": 39.884,
+      "approve_hi": 48.46478,
+      "disapprove_lo": 46.72684,
+      "disapprove_hi": 56.87511
+    },
+    {
+      "date": "2025-05-04",
+      "approve": 44.17439,
+      "disapprove": 51.80098,
+      "approve_lo": 39.884,
+      "approve_hi": 48.46478,
+      "disapprove_lo": 46.72684,
+      "disapprove_hi": 56.87511
+    },
+    {
+      "date": "2025-05-05",
+      "approve": 44.19829,
+      "disapprove": 51.47165,
+      "approve_lo": 39.87852,
+      "approve_hi": 48.51806,
+      "disapprove_lo": 46.38081,
+      "disapprove_hi": 56.56249
+    },
+    {
+      "date": "2025-05-06",
+      "approve": 44.20853,
+      "disapprove": 51.52731,
+      "approve_lo": 39.78123,
+      "approve_hi": 48.63583,
+      "disapprove_lo": 46.4747,
+      "disapprove_hi": 56.57993
+    },
+    {
+      "date": "2025-05-07",
+      "approve": 44.21026,
+      "disapprove": 51.50815,
+      "approve_lo": 39.81764,
+      "approve_hi": 48.60288,
+      "disapprove_lo": 46.46246,
+      "disapprove_hi": 56.55384
+    },
+    {
+      "date": "2025-05-08",
+      "approve": 44.26077,
+      "disapprove": 51.50791,
+      "approve_lo": 39.84769,
+      "approve_hi": 48.67384,
+      "disapprove_lo": 46.47466,
+      "disapprove_hi": 56.54116
+    },
+    {
+      "date": "2025-05-09",
+      "approve": 44.37271,
+      "disapprove": 51.58416,
+      "approve_lo": 39.8406,
+      "approve_hi": 48.90483,
+      "disapprove_lo": 46.54403,
+      "disapprove_hi": 56.62429
+    },
+    {
+      "date": "2025-05-10",
+      "approve": 44.44425,
+      "disapprove": 51.27837,
+      "approve_lo": 39.96053,
+      "approve_hi": 48.92796,
+      "disapprove_lo": 46.25572,
+      "disapprove_hi": 56.30102
+    },
+    {
+      "date": "2025-05-11",
+      "approve": 44.44425,
+      "disapprove": 51.27837,
+      "approve_lo": 39.96053,
+      "approve_hi": 48.92796,
+      "disapprove_lo": 46.25572,
+      "disapprove_hi": 56.30102
+    },
+    {
+      "date": "2025-05-12",
+      "approve": 44.5688,
+      "disapprove": 51.26873,
+      "approve_lo": 39.95161,
+      "approve_hi": 49.18598,
+      "disapprove_lo": 46.28798,
+      "disapprove_hi": 56.24948
+    },
+    {
+      "date": "2025-05-13",
+      "approve": 44.72442,
+      "disapprove": 51.24622,
+      "approve_lo": 40.08033,
+      "approve_hi": 49.36852,
+      "disapprove_lo": 46.40967,
+      "disapprove_hi": 56.08277
+    },
+    {
+      "date": "2025-05-14",
+      "approve": 44.96555,
+      "disapprove": 51.18964,
+      "approve_lo": 40.36968,
+      "approve_hi": 49.56141,
+      "disapprove_lo": 46.50863,
+      "disapprove_hi": 55.87065
+    },
+    {
+      "date": "2025-05-15",
+      "approve": 44.95261,
+      "disapprove": 51.20525,
+      "approve_lo": 40.39343,
+      "approve_hi": 49.51179,
+      "disapprove_lo": 46.56059,
+      "disapprove_hi": 55.84991
+    },
+    {
+      "date": "2025-05-16",
+      "approve": 45.31767,
+      "disapprove": 51.09854,
+      "approve_lo": 40.50603,
+      "approve_hi": 50.1293,
+      "disapprove_lo": 46.47936,
+      "disapprove_hi": 55.71772
+    },
+    {
+      "date": "2025-05-17",
+      "approve": 45.37041,
+      "disapprove": 50.90691,
+      "approve_lo": 40.64225,
+      "approve_hi": 50.09858,
+      "disapprove_lo": 46.19557,
+      "disapprove_hi": 55.61824
+    },
+    {
+      "date": "2025-05-18",
+      "approve": 45.37041,
+      "disapprove": 50.90691,
+      "approve_lo": 40.64225,
+      "approve_hi": 50.09858,
+      "disapprove_lo": 46.19557,
+      "disapprove_hi": 55.61824
+    },
+    {
+      "date": "2025-05-19",
+      "approve": 45.56319,
+      "disapprove": 50.81866,
+      "approve_lo": 40.97774,
+      "approve_hi": 50.14864,
+      "disapprove_lo": 46.2233,
+      "disapprove_hi": 55.41403
+    },
+    {
+      "date": "2025-05-20",
+      "approve": 46.15147,
+      "disapprove": 50.40587,
+      "approve_lo": 41.07109,
+      "approve_hi": 51.23185,
+      "disapprove_lo": 45.759,
+      "disapprove_hi": 55.05275
+    },
+    {
+      "date": "2025-05-21",
+      "approve": 46.09607,
+      "disapprove": 50.77578,
+      "approve_lo": 41.13206,
+      "approve_hi": 51.06009,
+      "disapprove_lo": 46.08316,
+      "disapprove_hi": 55.46841
+    },
+    {
+      "date": "2025-05-22",
+      "approve": 46.02513,
+      "disapprove": 50.8985,
+      "approve_lo": 41.12396,
+      "approve_hi": 50.9263,
+      "disapprove_lo": 46.21655,
+      "disapprove_hi": 55.58045
+    },
+    {
+      "date": "2025-05-23",
+      "approve": 45.95557,
+      "disapprove": 50.99088,
+      "approve_lo": 41.12179,
+      "approve_hi": 50.78936,
+      "disapprove_lo": 46.41227,
+      "disapprove_hi": 55.56948
+    },
+    {
+      "date": "2025-05-24",
+      "approve": 45.95385,
+      "disapprove": 50.92148,
+      "approve_lo": 41.14063,
+      "approve_hi": 50.76707,
+      "disapprove_lo": 46.34451,
+      "disapprove_hi": 55.49845
+    },
+    {
+      "date": "2025-05-25",
+      "approve": 45.95385,
+      "disapprove": 50.92148,
+      "approve_lo": 41.14063,
+      "approve_hi": 50.76707,
+      "disapprove_lo": 46.34451,
+      "disapprove_hi": 55.49845
+    },
+    {
+      "date": "2025-05-26",
+      "approve": 46.07698,
+      "disapprove": 50.8042,
+      "approve_lo": 41.15118,
+      "approve_hi": 51.00277,
+      "disapprove_lo": 46.18658,
+      "disapprove_hi": 55.42181
+    },
+    {
+      "date": "2025-05-27",
+      "approve": 46.07553,
+      "disapprove": 50.7822,
+      "approve_lo": 41.00283,
+      "approve_hi": 51.14823,
+      "disapprove_lo": 46.04644,
+      "disapprove_hi": 55.51795
+    },
+    {
+      "date": "2025-05-28",
+      "approve": 46.23866,
+      "disapprove": 50.78482,
+      "approve_lo": 41.1508,
+      "approve_hi": 51.32652,
+      "disapprove_lo": 46.10906,
+      "disapprove_hi": 55.46059
+    },
+    {
+      "date": "2025-05-29",
+      "approve": 46.02589,
+      "disapprove": 50.96757,
+      "approve_lo": 40.90005,
+      "approve_hi": 51.15173,
+      "disapprove_lo": 46.31312,
+      "disapprove_hi": 55.62202
+    },
+    {
+      "date": "2025-05-30",
+      "approve": 45.9076,
+      "disapprove": 51.27956,
+      "approve_lo": 40.93063,
+      "approve_hi": 50.88457,
+      "disapprove_lo": 46.58895,
+      "disapprove_hi": 55.97017
+    },
+    {
+      "date": "2025-05-31",
+      "approve": 45.9076,
+      "disapprove": 51.27956,
+      "approve_lo": 40.93063,
+      "approve_hi": 50.88457,
+      "disapprove_lo": 46.58895,
+      "disapprove_hi": 55.97017
+    },
+    {
+      "date": "2025-06-01",
+      "approve": 45.9076,
+      "disapprove": 51.27956,
+      "approve_lo": 40.93063,
+      "approve_hi": 50.88457,
+      "disapprove_lo": 46.58895,
+      "disapprove_hi": 55.97017
+    },
+    {
+      "date": "2025-06-02",
+      "approve": 45.84019,
+      "disapprove": 50.67007,
+      "approve_lo": 40.90488,
+      "approve_hi": 50.77549,
+      "disapprove_lo": 45.77322,
+      "disapprove_hi": 55.56692
+    },
+    {
+      "date": "2025-06-03",
+      "approve": 46.4903,
+      "disapprove": 50.17305,
+      "approve_lo": 41.34065,
+      "approve_hi": 51.63994,
+      "disapprove_lo": 45.34174,
+      "disapprove_hi": 55.00437
+    },
+    {
+      "date": "2025-06-04",
+      "approve": 46.5542,
+      "disapprove": 50.1499,
+      "approve_lo": 41.42735,
+      "approve_hi": 51.68105,
+      "disapprove_lo": 45.36754,
+      "disapprove_hi": 54.93226
+    },
+    {
+      "date": "2025-06-05",
+      "approve": 46.52064,
+      "disapprove": 50.20092,
+      "approve_lo": 41.43844,
+      "approve_hi": 51.60284,
+      "disapprove_lo": 45.45494,
+      "disapprove_hi": 54.9469
+    },
+    {
+      "date": "2025-06-06",
+      "approve": 46.59631,
+      "disapprove": 50.08231,
+      "approve_lo": 41.53347,
+      "approve_hi": 51.65916,
+      "disapprove_lo": 45.3429,
+      "disapprove_hi": 54.82173
+    },
+    {
+      "date": "2025-06-07",
+      "approve": 46.59631,
+      "disapprove": 50.08231,
+      "approve_lo": 41.53347,
+      "approve_hi": 51.65916,
+      "disapprove_lo": 45.3429,
+      "disapprove_hi": 54.82173
+    },
+    {
+      "date": "2025-06-08",
+      "approve": 46.55487,
+      "disapprove": 50.49254,
+      "approve_lo": 41.47169,
+      "approve_hi": 51.63806,
+      "disapprove_lo": 45.47565,
+      "disapprove_hi": 55.50943
+    },
+    {
+      "date": "2025-06-09",
+      "approve": 46.61961,
+      "disapprove": 50.48277,
+      "approve_lo": 41.5727,
+      "approve_hi": 51.66652,
+      "disapprove_lo": 45.50533,
+      "disapprove_hi": 55.4602
+    },
+    {
+      "date": "2025-06-10",
+      "approve": 46.5338,
+      "disapprove": 50.10598,
+      "approve_lo": 41.44273,
+      "approve_hi": 51.62487,
+      "disapprove_lo": 45.14545,
+      "disapprove_hi": 55.06652
+    },
+    {
+      "date": "2025-06-11",
+      "approve": 45.7652,
+      "disapprove": 50.08334,
+      "approve_lo": 40.00418,
+      "approve_hi": 51.52622,
+      "disapprove_lo": 44.93771,
+      "disapprove_hi": 55.22896
+    },
+    {
+      "date": "2025-06-12",
+      "approve": 45.24525,
+      "disapprove": 50.68462,
+      "approve_lo": 39.38029,
+      "approve_hi": 51.1102,
+      "disapprove_lo": 44.83722,
+      "disapprove_hi": 56.53203
+    },
+    {
+      "date": "2025-06-13",
+      "approve": 45.44925,
+      "disapprove": 50.5279,
+      "approve_lo": 39.49224,
+      "approve_hi": 51.40626,
+      "disapprove_lo": 44.71768,
+      "disapprove_hi": 56.33813
+    },
+    {
+      "date": "2025-06-14",
+      "approve": 45.44925,
+      "disapprove": 50.5279,
+      "approve_lo": 39.49224,
+      "approve_hi": 51.40626,
+      "disapprove_lo": 44.71768,
+      "disapprove_hi": 56.33813
+    },
+    {
+      "date": "2025-06-15",
+      "approve": 45.33545,
+      "disapprove": 50.80773,
+      "approve_lo": 39.51071,
+      "approve_hi": 51.16018,
+      "disapprove_lo": 45.00505,
+      "disapprove_hi": 56.61041
+    },
+    {
+      "date": "2025-06-16",
+      "approve": 44.93036,
+      "disapprove": 51.36875,
+      "approve_lo": 39.44646,
+      "approve_hi": 50.41426,
+      "disapprove_lo": 45.88316,
+      "disapprove_hi": 56.85435
+    },
+    {
+      "date": "2025-06-17",
+      "approve": 44.45401,
+      "disapprove": 52.08025,
+      "approve_lo": 39.05592,
+      "approve_hi": 49.85211,
+      "disapprove_lo": 46.62862,
+      "disapprove_hi": 57.53188
+    },
+    {
+      "date": "2025-06-18",
+      "approve": 45.28555,
+      "disapprove": 51.52721,
+      "approve_lo": 39.68107,
+      "approve_hi": 50.89003,
+      "disapprove_lo": 46.0863,
+      "disapprove_hi": 56.96812
+    },
+    {
+      "date": "2025-06-19",
+      "approve": 45.71624,
+      "disapprove": 51.82945,
+      "approve_lo": 40.34824,
+      "approve_hi": 51.08423,
+      "disapprove_lo": 46.59583,
+      "disapprove_hi": 57.06306
+    },
+    {
+      "date": "2025-06-20",
+      "approve": 46.05882,
+      "disapprove": 51.56765,
+      "approve_lo": 40.58069,
+      "approve_hi": 51.53695,
+      "disapprove_lo": 46.31158,
+      "disapprove_hi": 56.82372
+    },
+    {
+      "date": "2025-06-21",
+      "approve": 46.05882,
+      "disapprove": 51.56765,
+      "approve_lo": 40.58069,
+      "approve_hi": 51.53695,
+      "disapprove_lo": 46.31158,
+      "disapprove_hi": 56.82372
+    },
+    {
+      "date": "2025-06-22",
+      "approve": 46.77275,
+      "disapprove": 50.94884,
+      "approve_lo": 41.0449,
+      "approve_hi": 52.50061,
+      "disapprove_lo": 45.54755,
+      "disapprove_hi": 56.35014
+    },
+    {
+      "date": "2025-06-23",
+      "approve": 45.93705,
+      "disapprove": 51.9781,
+      "approve_lo": 40.07698,
+      "approve_hi": 51.79711,
+      "disapprove_lo": 46.32735,
+      "disapprove_hi": 57.62885
+    },
+    {
+      "date": "2025-06-24",
+      "approve": 45.3207,
+      "disapprove": 52.34038,
+      "approve_lo": 39.40358,
+      "approve_hi": 51.23782,
+      "disapprove_lo": 46.80363,
+      "disapprove_hi": 57.87713
+    },
+    {
+      "date": "2025-06-25",
+      "approve": 45.3147,
+      "disapprove": 52.26276,
+      "approve_lo": 39.39645,
+      "approve_hi": 51.23295,
+      "disapprove_lo": 46.76577,
+      "disapprove_hi": 57.75976
+    },
+    {
+      "date": "2025-06-26",
+      "approve": 45.31617,
+      "disapprove": 52.28615,
+      "approve_lo": 39.52495,
+      "approve_hi": 51.1074,
+      "disapprove_lo": 46.97954,
+      "disapprove_hi": 57.59275
+    },
+    {
+      "date": "2025-06-27",
+      "approve": 45.42145,
+      "disapprove": 51.61077,
+      "approve_lo": 39.86787,
+      "approve_hi": 50.97503,
+      "disapprove_lo": 46.35622,
+      "disapprove_hi": 56.86532
+    },
+    {
+      "date": "2025-06-28",
+      "approve": 45.42145,
+      "disapprove": 51.61077,
+      "approve_lo": 39.86787,
+      "approve_hi": 50.97503,
+      "disapprove_lo": 46.35622,
+      "disapprove_hi": 56.86532
+    },
+    {
+      "date": "2025-06-29",
+      "approve": 45.42145,
+      "disapprove": 51.61077,
+      "approve_lo": 39.86787,
+      "approve_hi": 50.97503,
+      "disapprove_lo": 46.35622,
+      "disapprove_hi": 56.86532
+    },
+    {
+      "date": "2025-06-30",
+      "approve": 45.47735,
+      "disapprove": 50.99075,
+      "approve_lo": 40.10681,
+      "approve_hi": 50.8479,
+      "disapprove_lo": 45.68668,
+      "disapprove_hi": 56.29482
+    },
+    {
+      "date": "2025-07-01",
+      "approve": 45.19435,
+      "disapprove": 51.08479,
+      "approve_lo": 39.92445,
+      "approve_hi": 50.46426,
+      "disapprove_lo": 45.91134,
+      "disapprove_hi": 56.25823
+    },
+    {
+      "date": "2025-07-02",
+      "approve": 44.88764,
+      "disapprove": 51.40293,
+      "approve_lo": 39.73787,
+      "approve_hi": 50.03741,
+      "disapprove_lo": 46.26125,
+      "disapprove_hi": 56.54461
+    },
+    {
+      "date": "2025-07-03",
+      "approve": 44.85147,
+      "disapprove": 51.43267,
+      "approve_lo": 39.73217,
+      "approve_hi": 49.97078,
+      "disapprove_lo": 46.31968,
+      "disapprove_hi": 56.54567
+    },
+    {
+      "date": "2025-07-04",
+      "approve": 44.85147,
+      "disapprove": 51.43267,
+      "approve_lo": 39.73217,
+      "approve_hi": 49.97078,
+      "disapprove_lo": 46.31968,
+      "disapprove_hi": 56.54567
+    },
+    {
+      "date": "2025-07-05",
+      "approve": 44.85147,
+      "disapprove": 51.43267,
+      "approve_lo": 39.73217,
+      "approve_hi": 49.97078,
+      "disapprove_lo": 46.31968,
+      "disapprove_hi": 56.54567
+    },
+    {
+      "date": "2025-07-06",
+      "approve": 44.85147,
+      "disapprove": 51.43267,
+      "approve_lo": 39.73217,
+      "approve_hi": 49.97078,
+      "disapprove_lo": 46.31968,
+      "disapprove_hi": 56.54567
+    },
+    {
+      "date": "2025-07-07",
+      "approve": 44.86248,
+      "disapprove": 51.54952,
+      "approve_lo": 39.67989,
+      "approve_hi": 50.04507,
+      "disapprove_lo": 46.38672,
+      "disapprove_hi": 56.71232
+    },
+    {
+      "date": "2025-07-08",
+      "approve": 44.83948,
+      "disapprove": 51.58128,
+      "approve_lo": 39.66638,
+      "approve_hi": 50.01258,
+      "disapprove_lo": 46.52449,
+      "disapprove_hi": 56.63807
+    },
+    {
+      "date": "2025-07-09",
+      "approve": 44.80891,
+      "disapprove": 51.61864,
+      "approve_lo": 39.68991,
+      "approve_hi": 49.92792,
+      "disapprove_lo": 46.60791,
+      "disapprove_hi": 56.62937
+    },
+    {
+      "date": "2025-07-10",
+      "approve": 44.75904,
+      "disapprove": 51.67304,
+      "approve_lo": 39.69407,
+      "approve_hi": 49.82402,
+      "disapprove_lo": 46.70221,
+      "disapprove_hi": 56.64388
+    },
+    {
+      "date": "2025-07-11",
+      "approve": 44.72254,
+      "disapprove": 51.44061,
+      "approve_lo": 39.71545,
+      "approve_hi": 49.72963,
+      "disapprove_lo": 46.59062,
+      "disapprove_hi": 56.2906
+    },
+    {
+      "date": "2025-07-12",
+      "approve": 44.67564,
+      "disapprove": 51.45148,
+      "approve_lo": 39.66097,
+      "approve_hi": 49.6903,
+      "disapprove_lo": 46.61292,
+      "disapprove_hi": 56.29005
+    },
+    {
+      "date": "2025-07-13",
+      "approve": 44.67564,
+      "disapprove": 51.45148,
+      "approve_lo": 39.66097,
+      "approve_hi": 49.6903,
+      "disapprove_lo": 46.61292,
+      "disapprove_hi": 56.29005
+    },
+    {
+      "date": "2025-07-14",
+      "approve": 44.5064,
+      "disapprove": 51.86045,
+      "approve_lo": 39.59494,
+      "approve_hi": 49.41786,
+      "disapprove_lo": 47.11111,
+      "disapprove_hi": 56.60979
+    },
+    {
+      "date": "2025-07-15",
+      "approve": 44.36175,
+      "disapprove": 52.01043,
+      "approve_lo": 39.49989,
+      "approve_hi": 49.22361,
+      "disapprove_lo": 47.26355,
+      "disapprove_hi": 56.7573
+    },
+    {
+      "date": "2025-07-16",
+      "approve": 44.05926,
+      "disapprove": 52.2956,
+      "approve_lo": 39.14006,
+      "approve_hi": 48.97846,
+      "disapprove_lo": 47.38836,
+      "disapprove_hi": 57.20285
+    },
+    {
+      "date": "2025-07-17",
+      "approve": 43.78349,
+      "disapprove": 52.66333,
+      "approve_lo": 38.79691,
+      "approve_hi": 48.77006,
+      "disapprove_lo": 47.63848,
+      "disapprove_hi": 57.68819
+    },
+    {
+      "date": "2025-07-18",
+      "approve": 44.07179,
+      "disapprove": 52.76429,
+      "approve_lo": 38.95639,
+      "approve_hi": 49.18718,
+      "disapprove_lo": 47.80954,
+      "disapprove_hi": 57.71904
+    },
+    {
+      "date": "2025-07-19",
+      "approve": 44.07179,
+      "disapprove": 52.76429,
+      "approve_lo": 38.95639,
+      "approve_hi": 49.18718,
+      "disapprove_lo": 47.80954,
+      "disapprove_hi": 57.71904
+    },
+    {
+      "date": "2025-07-20",
+      "approve": 44.03109,
+      "disapprove": 53.10838,
+      "approve_lo": 38.96538,
+      "approve_hi": 49.09679,
+      "disapprove_lo": 48.05759,
+      "disapprove_hi": 58.15916
+    },
+    {
+      "date": "2025-07-21",
+      "approve": 43.72446,
+      "disapprove": 53.47935,
+      "approve_lo": 38.51315,
+      "approve_hi": 48.93577,
+      "disapprove_lo": 48.3048,
+      "disapprove_hi": 58.65391
+    },
+    {
+      "date": "2025-07-22",
+      "approve": 43.46236,
+      "disapprove": 53.8062,
+      "approve_lo": 38.51247,
+      "approve_hi": 48.41225,
+      "disapprove_lo": 48.86074,
+      "disapprove_hi": 58.75166
+    },
+    {
+      "date": "2025-07-23",
+      "approve": 43.78209,
+      "disapprove": 53.35548,
+      "approve_lo": 38.92727,
+      "approve_hi": 48.6369,
+      "disapprove_lo": 48.16524,
+      "disapprove_hi": 58.54572
+    },
+    {
+      "date": "2025-07-24",
+      "approve": 43.93604,
+      "disapprove": 53.39256,
+      "approve_lo": 39.20217,
+      "approve_hi": 48.6699,
+      "disapprove_lo": 48.36547,
+      "disapprove_hi": 58.41965
+    },
+    {
+      "date": "2025-07-25",
+      "approve": 44.57859,
+      "disapprove": 52.55592,
+      "approve_lo": 39.69402,
+      "approve_hi": 49.46316,
+      "disapprove_lo": 47.35213,
+      "disapprove_hi": 57.7597
+    },
+    {
+      "date": "2025-07-26",
+      "approve": 44.57859,
+      "disapprove": 52.55592,
+      "approve_lo": 39.69402,
+      "approve_hi": 49.46316,
+      "disapprove_lo": 47.35213,
+      "disapprove_hi": 57.7597
+    },
+    {
+      "date": "2025-07-27",
+      "approve": 44.57859,
+      "disapprove": 52.55592,
+      "approve_lo": 39.69402,
+      "approve_hi": 49.46316,
+      "disapprove_lo": 47.35213,
+      "disapprove_hi": 57.7597
+    },
+    {
+      "date": "2025-07-28",
+      "approve": 44.65439,
+      "disapprove": 52.56554,
+      "approve_lo": 39.81907,
+      "approve_hi": 49.48971,
+      "disapprove_lo": 47.4197,
+      "disapprove_hi": 57.71139
+    },
+    {
+      "date": "2025-07-29",
+      "approve": 44.41754,
+      "disapprove": 52.77026,
+      "approve_lo": 39.49358,
+      "approve_hi": 49.34149,
+      "disapprove_lo": 47.66754,
+      "disapprove_hi": 57.87298
+    },
+    {
+      "date": "2025-07-30",
+      "approve": 44.28172,
+      "disapprove": 52.90098,
+      "approve_lo": 39.33529,
+      "approve_hi": 49.22816,
+      "disapprove_lo": 47.82463,
+      "disapprove_hi": 57.97733
+    },
+    {
+      "date": "2025-07-31",
+      "approve": 44.17222,
+      "disapprove": 53.00957,
+      "approve_lo": 39.20594,
+      "approve_hi": 49.1385,
+      "disapprove_lo": 47.9651,
+      "disapprove_hi": 58.05405
+    },
+    {
+      "date": "2025-08-01",
+      "approve": 44.36187,
+      "disapprove": 52.89017,
+      "approve_lo": 39.37379,
+      "approve_hi": 49.34995,
+      "disapprove_lo": 47.85974,
+      "disapprove_hi": 57.9206
+    },
+    {
+      "date": "2025-08-02",
+      "approve": 44.36187,
+      "disapprove": 52.89017,
+      "approve_lo": 39.37379,
+      "approve_hi": 49.34995,
+      "disapprove_lo": 47.85974,
+      "disapprove_hi": 57.9206
+    },
+    {
+      "date": "2025-08-03",
+      "approve": 44.36187,
+      "disapprove": 52.89017,
+      "approve_lo": 39.37379,
+      "approve_hi": 49.34995,
+      "disapprove_lo": 47.85974,
+      "disapprove_hi": 57.9206
+    },
+    {
+      "date": "2025-08-04",
+      "approve": 44.2606,
+      "disapprove": 52.5351,
+      "approve_lo": 39.30018,
+      "approve_hi": 49.22102,
+      "disapprove_lo": 47.20674,
+      "disapprove_hi": 57.86345
+    },
+    {
+      "date": "2025-08-05",
+      "approve": 43.79611,
+      "disapprove": 52.67502,
+      "approve_lo": 38.70631,
+      "approve_hi": 48.88591,
+      "disapprove_lo": 47.4815,
+      "disapprove_hi": 57.86854
+    },
+    {
+      "date": "2025-08-06",
+      "approve": 43.87662,
+      "disapprove": 52.6249,
+      "approve_lo": 38.85132,
+      "approve_hi": 48.90192,
+      "disapprove_lo": 47.51024,
+      "disapprove_hi": 57.73956
+    },
+    {
+      "date": "2025-08-07",
+      "approve": 44.04466,
+      "disapprove": 52.46973,
+      "approve_lo": 39.1227,
+      "approve_hi": 48.96662,
+      "disapprove_lo": 47.46843,
+      "disapprove_hi": 57.47103
+    },
+    {
+      "date": "2025-08-08",
+      "approve": 43.93789,
+      "disapprove": 52.52631,
+      "approve_lo": 39.01989,
+      "approve_hi": 48.8559,
+      "disapprove_lo": 47.53418,
+      "disapprove_hi": 57.51844
+    },
+    {
+      "date": "2025-08-09",
+      "approve": 43.93789,
+      "disapprove": 52.52631,
+      "approve_lo": 39.01989,
+      "approve_hi": 48.8559,
+      "disapprove_lo": 47.53418,
+      "disapprove_hi": 57.51844
+    },
+    {
+      "date": "2025-08-10",
+      "approve": 43.93789,
+      "disapprove": 52.52631,
+      "approve_lo": 39.01989,
+      "approve_hi": 48.8559,
+      "disapprove_lo": 47.53418,
+      "disapprove_hi": 57.51844
+    },
+    {
+      "date": "2025-08-11",
+      "approve": 44.03181,
+      "disapprove": 52.1997,
+      "approve_lo": 39.10908,
+      "approve_hi": 48.95455,
+      "disapprove_lo": 47.17438,
+      "disapprove_hi": 57.22502
+    },
+    {
+      "date": "2025-08-12",
+      "approve": 43.98732,
+      "disapprove": 52.25663,
+      "approve_lo": 39.1183,
+      "approve_hi": 48.85634,
+      "disapprove_lo": 47.29187,
+      "disapprove_hi": 57.22139
+    },
+    {
+      "date": "2025-08-13",
+      "approve": 44.06721,
+      "disapprove": 52.23619,
+      "approve_lo": 39.13058,
+      "approve_hi": 49.00385,
+      "disapprove_lo": 47.28468,
+      "disapprove_hi": 57.1877
+    },
+    {
+      "date": "2025-08-14",
+      "approve": 43.5822,
+      "disapprove": 52.77971,
+      "approve_lo": 38.54095,
+      "approve_hi": 48.62346,
+      "disapprove_lo": 47.36103,
+      "disapprove_hi": 58.19838
+    },
+    {
+      "date": "2025-08-15",
+      "approve": 43.72702,
+      "disapprove": 52.83274,
+      "approve_lo": 38.59466,
+      "approve_hi": 48.85937,
+      "disapprove_lo": 47.53831,
+      "disapprove_hi": 58.12716
+    },
+    {
+      "date": "2025-08-16",
+      "approve": 43.72702,
+      "disapprove": 52.83274,
+      "approve_lo": 38.59466,
+      "approve_hi": 48.85937,
+      "disapprove_lo": 47.53831,
+      "disapprove_hi": 58.12716
+    },
+    {
+      "date": "2025-08-17",
+      "approve": 43.72702,
+      "disapprove": 52.83274,
+      "approve_lo": 38.59466,
+      "approve_hi": 48.85937,
+      "disapprove_lo": 47.53831,
+      "disapprove_hi": 58.12716
+    },
+    {
+      "date": "2025-08-18",
+      "approve": 44.58305,
+      "disapprove": 51.97133,
+      "approve_lo": 39.01005,
+      "approve_hi": 50.15604,
+      "disapprove_lo": 46.50005,
+      "disapprove_hi": 57.4426
+    },
+    {
+      "date": "2025-08-19",
+      "approve": 44.20662,
+      "disapprove": 52.25785,
+      "approve_lo": 38.55586,
+      "approve_hi": 49.85738,
+      "disapprove_lo": 46.91065,
+      "disapprove_hi": 57.60506
+    },
+    {
+      "date": "2025-08-20",
+      "approve": 44.27113,
+      "disapprove": 52.19312,
+      "approve_lo": 38.59648,
+      "approve_hi": 49.94578,
+      "disapprove_lo": 46.84155,
+      "disapprove_hi": 57.54468
+    },
+    {
+      "date": "2025-08-21",
+      "approve": 43.97292,
+      "disapprove": 52.55719,
+      "approve_lo": 38.06737,
+      "approve_hi": 49.87848,
+      "disapprove_lo": 46.90793,
+      "disapprove_hi": 58.20645
+    },
+    {
+      "date": "2025-08-22",
+      "approve": 44.10796,
+      "disapprove": 52.37938,
+      "approve_lo": 38.24352,
+      "approve_hi": 49.9724,
+      "disapprove_lo": 46.77489,
+      "disapprove_hi": 57.98388
+    },
+    {
+      "date": "2025-08-23",
+      "approve": 44.10796,
+      "disapprove": 52.37938,
+      "approve_lo": 38.24352,
+      "approve_hi": 49.9724,
+      "disapprove_lo": 46.77489,
+      "disapprove_hi": 57.98388
+    },
+    {
+      "date": "2025-08-24",
+      "approve": 44.10796,
+      "disapprove": 52.37938,
+      "approve_lo": 38.24352,
+      "approve_hi": 49.9724,
+      "disapprove_lo": 46.77489,
+      "disapprove_hi": 57.98388
+    },
+    {
+      "date": "2025-08-25",
+      "approve": 44.46113,
+      "disapprove": 52.088,
+      "approve_lo": 38.66377,
+      "approve_hi": 50.25849,
+      "disapprove_lo": 46.57614,
+      "disapprove_hi": 57.59985
+    },
+    {
+      "date": "2025-08-26",
+      "approve": 44.2031,
+      "disapprove": 52.51167,
+      "approve_lo": 38.51795,
+      "approve_hi": 49.88826,
+      "disapprove_lo": 47.1209,
+      "disapprove_hi": 57.90244
+    },
+    {
+      "date": "2025-08-27",
+      "approve": 43.94563,
+      "disapprove": 52.51558,
+      "approve_lo": 38.2387,
+      "approve_hi": 49.65255,
+      "disapprove_lo": 47.40112,
+      "disapprove_hi": 57.63004
+    },
+    {
+      "date": "2025-08-28",
+      "approve": 43.91744,
+      "disapprove": 52.5896,
+      "approve_lo": 38.27131,
+      "approve_hi": 49.56358,
+      "disapprove_lo": 47.50847,
+      "disapprove_hi": 57.67073
+    },
+    {
+      "date": "2025-08-29",
+      "approve": 44.06219,
+      "disapprove": 51.96711,
+      "approve_lo": 38.62595,
+      "approve_hi": 49.49843,
+      "disapprove_lo": 46.76503,
+      "disapprove_hi": 57.16918
+    },
+    {
+      "date": "2025-08-30",
+      "approve": 44.06219,
+      "disapprove": 51.96711,
+      "approve_lo": 38.62595,
+      "approve_hi": 49.49843,
+      "disapprove_lo": 46.76503,
+      "disapprove_hi": 57.16918
+    },
+    {
+      "date": "2025-08-31",
+      "approve": 44.06219,
+      "disapprove": 51.96711,
+      "approve_lo": 38.62595,
+      "approve_hi": 49.49843,
+      "disapprove_lo": 46.76503,
+      "disapprove_hi": 57.16918
+    },
+    {
+      "date": "2025-09-01",
+      "approve": 44.06219,
+      "disapprove": 51.96711,
+      "approve_lo": 38.62595,
+      "approve_hi": 49.49843,
+      "disapprove_lo": 46.76503,
+      "disapprove_hi": 57.16918
+    },
+    {
+      "date": "2025-09-02",
+      "approve": 44.08476,
+      "disapprove": 51.69731,
+      "approve_lo": 38.82371,
+      "approve_hi": 49.34582,
+      "disapprove_lo": 46.52289,
+      "disapprove_hi": 56.87173
+    },
+    {
+      "date": "2025-09-03",
+      "approve": 43.89992,
+      "disapprove": 51.72988,
+      "approve_lo": 38.7497,
+      "approve_hi": 49.05014,
+      "disapprove_lo": 46.73769,
+      "disapprove_hi": 56.72206
+    },
+    {
+      "date": "2025-09-04",
+      "approve": 44.42887,
+      "disapprove": 51.41316,
+      "approve_lo": 39.24773,
+      "approve_hi": 49.61,
+      "disapprove_lo": 45.85471,
+      "disapprove_hi": 56.97161
+    },
+    {
+      "date": "2025-09-05",
+      "approve": 44.33666,
+      "disapprove": 51.26554,
+      "approve_lo": 39.01936,
+      "approve_hi": 49.65396,
+      "disapprove_lo": 45.85181,
+      "disapprove_hi": 56.67928
+    },
+    {
+      "date": "2025-09-06",
+      "approve": 44.33666,
+      "disapprove": 51.26554,
+      "approve_lo": 39.01936,
+      "approve_hi": 49.65396,
+      "disapprove_lo": 45.85181,
+      "disapprove_hi": 56.67928
+    },
+    {
+      "date": "2025-09-07",
+      "approve": 44.41241,
+      "disapprove": 51.6804,
+      "approve_lo": 39.18352,
+      "approve_hi": 49.6413,
+      "disapprove_lo": 46.037,
+      "disapprove_hi": 57.3238
+    },
+    {
+      "date": "2025-09-08",
+      "approve": 44.40029,
+      "disapprove": 51.70724,
+      "approve_lo": 39.20566,
+      "approve_hi": 49.59492,
+      "disapprove_lo": 46.1416,
+      "disapprove_hi": 57.27288
+    },
+    {
+      "date": "2025-09-09",
+      "approve": 44.18929,
+      "disapprove": 51.78542,
+      "approve_lo": 39.18657,
+      "approve_hi": 49.192,
+      "disapprove_lo": 46.35581,
+      "disapprove_hi": 57.21503
+    },
+    {
+      "date": "2025-09-10",
+      "approve": 44.19972,
+      "disapprove": 51.8439,
+      "approve_lo": 39.20116,
+      "approve_hi": 49.19828,
+      "disapprove_lo": 46.44874,
+      "disapprove_hi": 57.23907
+    },
+    {
+      "date": "2025-09-11",
+      "approve": 44.335,
+      "disapprove": 51.97995,
+      "approve_lo": 39.4671,
+      "approve_hi": 49.20291,
+      "disapprove_lo": 46.70728,
+      "disapprove_hi": 57.25261
+    },
+    {
+      "date": "2025-09-12",
+      "approve": 44.58268,
+      "disapprove": 51.83076,
+      "approve_lo": 39.75085,
+      "approve_hi": 49.41452,
+      "disapprove_lo": 46.72083,
+      "disapprove_hi": 56.9407
+    },
+    {
+      "date": "2025-09-13",
+      "approve": 44.58268,
+      "disapprove": 51.83076,
+      "approve_lo": 39.75085,
+      "approve_hi": 49.41452,
+      "disapprove_lo": 46.72083,
+      "disapprove_hi": 56.9407
+    },
+    {
+      "date": "2025-09-14",
+      "approve": 44.58268,
+      "disapprove": 51.83076,
+      "approve_lo": 39.75085,
+      "approve_hi": 49.41452,
+      "disapprove_lo": 46.72083,
+      "disapprove_hi": 56.9407
+    },
+    {
+      "date": "2025-09-15",
+      "approve": 44.59968,
+      "disapprove": 51.9264,
+      "approve_lo": 39.79525,
+      "approve_hi": 49.40411,
+      "disapprove_lo": 46.85873,
+      "disapprove_hi": 56.99408
+    },
+    {
+      "date": "2025-09-16",
+      "approve": 44.30514,
+      "disapprove": 52.17233,
+      "approve_lo": 39.28363,
+      "approve_hi": 49.32664,
+      "disapprove_lo": 46.97136,
+      "disapprove_hi": 57.3733
+    },
+    {
+      "date": "2025-09-17",
+      "approve": 44.35004,
+      "disapprove": 52.19464,
+      "approve_lo": 39.29181,
+      "approve_hi": 49.40826,
+      "disapprove_lo": 47.09108,
+      "disapprove_hi": 57.29821
+    },
+    {
+      "date": "2025-09-18",
+      "approve": 44.51647,
+      "disapprove": 52.14977,
+      "approve_lo": 39.45179,
+      "approve_hi": 49.58115,
+      "disapprove_lo": 47.04768,
+      "disapprove_hi": 57.25187
+    },
+    {
+      "date": "2025-09-19",
+      "approve": 44.89447,
+      "disapprove": 52.35304,
+      "approve_lo": 39.5785,
+      "approve_hi": 50.21043,
+      "disapprove_lo": 46.94133,
+      "disapprove_hi": 57.76474
+    },
+    {
+      "date": "2025-09-20",
+      "approve": 44.89447,
+      "disapprove": 52.35304,
+      "approve_lo": 39.5785,
+      "approve_hi": 50.21043,
+      "disapprove_lo": 46.94133,
+      "disapprove_hi": 57.76474
+    },
+    {
+      "date": "2025-09-21",
+      "approve": 44.89447,
+      "disapprove": 52.35304,
+      "approve_lo": 39.5785,
+      "approve_hi": 50.21043,
+      "disapprove_lo": 46.94133,
+      "disapprove_hi": 57.76474
+    },
+    {
+      "date": "2025-09-22",
+      "approve": 44.32733,
+      "disapprove": 52.85152,
+      "approve_lo": 38.90847,
+      "approve_hi": 49.7462,
+      "disapprove_lo": 47.54776,
+      "disapprove_hi": 58.15527
+    },
+    {
+      "date": "2025-09-23",
+      "approve": 43.87183,
+      "disapprove": 53.27336,
+      "approve_lo": 38.46613,
+      "approve_hi": 49.27754,
+      "disapprove_lo": 48.05434,
+      "disapprove_hi": 58.49237
+    },
+    {
+      "date": "2025-09-24",
+      "approve": 43.40615,
+      "disapprove": 53.37177,
+      "approve_lo": 37.9848,
+      "approve_hi": 48.82749,
+      "disapprove_lo": 48.38276,
+      "disapprove_hi": 58.36077
+    },
+    {
+      "date": "2025-09-25",
+      "approve": 43.57207,
+      "disapprove": 53.18896,
+      "approve_lo": 38.27589,
+      "approve_hi": 48.86826,
+      "disapprove_lo": 48.189,
+      "disapprove_hi": 58.18893
+    },
+    {
+      "date": "2025-09-26",
+      "approve": 43.72626,
+      "disapprove": 53.14685,
+      "approve_lo": 38.32635,
+      "approve_hi": 49.12617,
+      "disapprove_lo": 48.1811,
+      "disapprove_hi": 58.11259
+    },
+    {
+      "date": "2025-09-27",
+      "approve": 43.72626,
+      "disapprove": 53.14685,
+      "approve_lo": 38.32635,
+      "approve_hi": 49.12617,
+      "disapprove_lo": 48.1811,
+      "disapprove_hi": 58.11259
+    },
+    {
+      "date": "2025-09-28",
+      "approve": 43.72626,
+      "disapprove": 53.14685,
+      "approve_lo": 38.32635,
+      "approve_hi": 49.12617,
+      "disapprove_lo": 48.1811,
+      "disapprove_hi": 58.11259
+    },
+    {
+      "date": "2025-09-29",
+      "approve": 43.89839,
+      "disapprove": 53.00058,
+      "approve_lo": 38.32306,
+      "approve_hi": 49.47372,
+      "disapprove_lo": 47.94707,
+      "disapprove_hi": 58.05408
+    },
+    {
+      "date": "2025-09-30",
+      "approve": 43.10798,
+      "disapprove": 53.41122,
+      "approve_lo": 38.02941,
+      "approve_hi": 48.18654,
+      "disapprove_lo": 48.72022,
+      "disapprove_hi": 58.10222
+    },
+    {
+      "date": "2025-10-01",
+      "approve": 43.66993,
+      "disapprove": 52.97147,
+      "approve_lo": 38.21836,
+      "approve_hi": 49.1215,
+      "disapprove_lo": 47.83496,
+      "disapprove_hi": 58.10797
+    },
+    {
+      "date": "2025-10-02",
+      "approve": 43.31681,
+      "disapprove": 52.83426,
+      "approve_lo": 37.8718,
+      "approve_hi": 48.76181,
+      "disapprove_lo": 47.81606,
+      "disapprove_hi": 57.85246
+    },
+    {
+      "date": "2025-10-03",
+      "approve": 43.4701,
+      "disapprove": 52.79912,
+      "approve_lo": 37.9299,
+      "approve_hi": 49.01031,
+      "disapprove_lo": 47.78802,
+      "disapprove_hi": 57.81021
+    },
+    {
+      "date": "2025-10-04",
+      "approve": 43.4701,
+      "disapprove": 52.79912,
+      "approve_lo": 37.9299,
+      "approve_hi": 49.01031,
+      "disapprove_lo": 47.78802,
+      "disapprove_hi": 57.81021
+    },
+    {
+      "date": "2025-10-05",
+      "approve": 43.46202,
+      "disapprove": 53.18977,
+      "approve_lo": 37.92728,
+      "approve_hi": 48.99677,
+      "disapprove_lo": 48.03902,
+      "disapprove_hi": 58.34051
+    },
+    {
+      "date": "2025-10-06",
+      "approve": 43.58156,
+      "disapprove": 52.45383,
+      "approve_lo": 38.34165,
+      "approve_hi": 48.82146,
+      "disapprove_lo": 47.20934,
+      "disapprove_hi": 57.69831
+    },
+    {
+      "date": "2025-10-07",
+      "approve": 43.43106,
+      "disapprove": 52.58283,
+      "approve_lo": 38.12142,
+      "approve_hi": 48.7407,
+      "disapprove_lo": 47.34581,
+      "disapprove_hi": 57.81985
+    },
+    {
+      "date": "2025-10-08",
+      "approve": 43.32488,
+      "disapprove": 52.6919,
+      "approve_lo": 38.1784,
+      "approve_hi": 48.47136,
+      "disapprove_lo": 47.47029,
+      "disapprove_hi": 57.91352
+    },
+    {
+      "date": "2025-10-09",
+      "approve": 43.41287,
+      "disapprove": 52.67481,
+      "approve_lo": 38.21709,
+      "approve_hi": 48.60865,
+      "disapprove_lo": 47.46401,
+      "disapprove_hi": 57.8856
+    },
+    {
+      "date": "2025-10-10",
+      "approve": 43.85495,
+      "disapprove": 52.27798,
+      "approve_lo": 38.36137,
+      "approve_hi": 49.34854,
+      "disapprove_lo": 46.94077,
+      "disapprove_hi": 57.61519
+    },
+    {
+      "date": "2025-10-11",
+      "approve": 43.85495,
+      "disapprove": 52.27798,
+      "approve_lo": 38.36137,
+      "approve_hi": 49.34854,
+      "disapprove_lo": 46.94077,
+      "disapprove_hi": 57.61519
+    },
+    {
+      "date": "2025-10-12",
+      "approve": 43.85495,
+      "disapprove": 52.27798,
+      "approve_lo": 38.36137,
+      "approve_hi": 49.34854,
+      "disapprove_lo": 46.94077,
+      "disapprove_hi": 57.61519
+    },
+    {
+      "date": "2025-10-13",
+      "approve": 43.93152,
+      "disapprove": 52.33584,
+      "approve_lo": 38.27468,
+      "approve_hi": 49.58836,
+      "disapprove_lo": 46.93455,
+      "disapprove_hi": 57.73713
+    },
+    {
+      "date": "2025-10-14",
+      "approve": 44.1718,
+      "disapprove": 52.07883,
+      "approve_lo": 38.67271,
+      "approve_hi": 49.67089,
+      "disapprove_lo": 46.97414,
+      "disapprove_hi": 57.18352
+    },
+    {
+      "date": "2025-10-15",
+      "approve": 44.17411,
+      "disapprove": 52.15405,
+      "approve_lo": 38.80144,
+      "approve_hi": 49.54677,
+      "disapprove_lo": 47.14475,
+      "disapprove_hi": 57.16334
+    },
+    {
+      "date": "2025-10-16",
+      "approve": 44.21528,
+      "disapprove": 52.05922,
+      "approve_lo": 38.83277,
+      "approve_hi": 49.59779,
+      "disapprove_lo": 47.01263,
+      "disapprove_hi": 57.10581
+    },
+    {
+      "date": "2025-10-17",
+      "approve": 44.33504,
+      "disapprove": 51.87089,
+      "approve_lo": 38.92918,
+      "approve_hi": 49.74091,
+      "disapprove_lo": 46.18519,
+      "disapprove_hi": 57.55659
+    },
+    {
+      "date": "2025-10-18",
+      "approve": 44.33504,
+      "disapprove": 51.87089,
+      "approve_lo": 38.92918,
+      "approve_hi": 49.74091,
+      "disapprove_lo": 46.18519,
+      "disapprove_hi": 57.55659
+    },
+    {
+      "date": "2025-10-19",
+      "approve": 44.33504,
+      "disapprove": 51.87089,
+      "approve_lo": 38.92918,
+      "approve_hi": 49.74091,
+      "disapprove_lo": 46.18519,
+      "disapprove_hi": 57.55659
+    },
+    {
+      "date": "2025-10-20",
+      "approve": 44.30328,
+      "disapprove": 51.93825,
+      "approve_lo": 38.98457,
+      "approve_hi": 49.62199,
+      "disapprove_lo": 46.30087,
+      "disapprove_hi": 57.57563
+    },
+    {
+      "date": "2025-10-21",
+      "approve": 43.75402,
+      "disapprove": 52.92032,
+      "approve_lo": 38.37628,
+      "approve_hi": 49.13176,
+      "disapprove_lo": 47.22104,
+      "disapprove_hi": 58.6196
+    },
+    {
+      "date": "2025-10-22",
+      "approve": 43.53077,
+      "disapprove": 53.06733,
+      "approve_lo": 38.27896,
+      "approve_hi": 48.78257,
+      "disapprove_lo": 47.61626,
+      "disapprove_hi": 58.51839
+    },
+    {
+      "date": "2025-10-23",
+      "approve": 43.54811,
+      "disapprove": 53.10984,
+      "approve_lo": 38.29664,
+      "approve_hi": 48.79959,
+      "disapprove_lo": 47.68911,
+      "disapprove_hi": 58.53057
+    },
+    {
+      "date": "2025-10-24",
+      "approve": 43.70021,
+      "disapprove": 52.90992,
+      "approve_lo": 38.32731,
+      "approve_hi": 49.07312,
+      "disapprove_lo": 47.43479,
+      "disapprove_hi": 58.38506
+    },
+    {
+      "date": "2025-10-25",
+      "approve": 43.70021,
+      "disapprove": 52.90992,
+      "approve_lo": 38.32731,
+      "approve_hi": 49.07312,
+      "disapprove_lo": 47.43479,
+      "disapprove_hi": 58.38506
+    },
+    {
+      "date": "2025-10-26",
+      "approve": 43.76201,
+      "disapprove": 53.08498,
+      "approve_lo": 38.49165,
+      "approve_hi": 49.03237,
+      "disapprove_lo": 47.6833,
+      "disapprove_hi": 58.48667
+    },
+    {
+      "date": "2025-10-27",
+      "approve": 43.82555,
+      "disapprove": 53.07344,
+      "approve_lo": 38.60885,
+      "approve_hi": 49.04226,
+      "disapprove_lo": 47.73761,
+      "disapprove_hi": 58.40928
+    },
+    {
+      "date": "2025-10-28",
+      "approve": 43.33384,
+      "disapprove": 53.664,
+      "approve_lo": 38.13512,
+      "approve_hi": 48.53255,
+      "disapprove_lo": 48.34643,
+      "disapprove_hi": 58.98156
+    },
+    {
+      "date": "2025-10-29",
+      "approve": 43.23124,
+      "disapprove": 53.88707,
+      "approve_lo": 38.11623,
+      "approve_hi": 48.34625,
+      "disapprove_lo": 48.5868,
+      "disapprove_hi": 59.18734
+    },
+    {
+      "date": "2025-10-30",
+      "approve": 43.25963,
+      "disapprove": 53.93645,
+      "approve_lo": 38.21244,
+      "approve_hi": 48.30682,
+      "disapprove_lo": 48.73409,
+      "disapprove_hi": 59.13882
+    },
+    {
+      "date": "2025-10-31",
+      "approve": 43.13808,
+      "disapprove": 53.8937,
+      "approve_lo": 38.16058,
+      "approve_hi": 48.11559,
+      "disapprove_lo": 48.75396,
+      "disapprove_hi": 59.03344
+    },
+    {
+      "date": "2025-11-01",
+      "approve": 43.13808,
+      "disapprove": 53.8937,
+      "approve_lo": 38.16058,
+      "approve_hi": 48.11559,
+      "disapprove_lo": 48.75396,
+      "disapprove_hi": 59.03344
+    },
+    {
+      "date": "2025-11-02",
+      "approve": 42.86601,
+      "disapprove": 54.63578,
+      "approve_lo": 38.11497,
+      "approve_hi": 47.61704,
+      "disapprove_lo": 49.45845,
+      "disapprove_hi": 59.81312
+    },
+    {
+      "date": "2025-11-03",
+      "approve": 42.22298,
+      "disapprove": 54.96059,
+      "approve_lo": 37.4417,
+      "approve_hi": 47.00426,
+      "disapprove_lo": 49.61442,
+      "disapprove_hi": 60.30677
+    },
+    {
+      "date": "2025-11-04",
+      "approve": 42.20548,
+      "disapprove": 54.97978,
+      "approve_lo": 37.33216,
+      "approve_hi": 47.0788,
+      "disapprove_lo": 49.67081,
+      "disapprove_hi": 60.28875
+    },
+    {
+      "date": "2025-11-05",
+      "approve": 42.08683,
+      "disapprove": 55.06602,
+      "approve_lo": 37.30653,
+      "approve_hi": 46.86714,
+      "disapprove_lo": 49.85109,
+      "disapprove_hi": 60.28094
+    },
+    {
+      "date": "2025-11-06",
+      "approve": 42.09183,
+      "disapprove": 55.06969,
+      "approve_lo": 37.31299,
+      "approve_hi": 46.87067,
+      "disapprove_lo": 49.87072,
+      "disapprove_hi": 60.26867
+    },
+    {
+      "date": "2025-11-07",
+      "approve": 41.90177,
+      "disapprove": 54.39793,
+      "approve_lo": 37.28711,
+      "approve_hi": 46.51643,
+      "disapprove_lo": 48.99684,
+      "disapprove_hi": 59.79903
+    },
+    {
+      "date": "2025-11-08",
+      "approve": 41.90177,
+      "disapprove": 54.39793,
+      "approve_lo": 37.28711,
+      "approve_hi": 46.51643,
+      "disapprove_lo": 48.99684,
+      "disapprove_hi": 59.79903
+    },
+    {
+      "date": "2025-11-09",
+      "approve": 41.90177,
+      "disapprove": 54.39793,
+      "approve_lo": 37.28711,
+      "approve_hi": 46.51643,
+      "disapprove_lo": 48.99684,
+      "disapprove_hi": 59.79903
+    },
+    {
+      "date": "2025-11-10",
+      "approve": 41.93528,
+      "disapprove": 54.35015,
+      "approve_lo": 37.48413,
+      "approve_hi": 46.38643,
+      "disapprove_lo": 49.11581,
+      "disapprove_hi": 59.58449
+    },
+    {
+      "date": "2025-11-11",
+      "approve": 41.87644,
+      "disapprove": 54.38862,
+      "approve_lo": 37.40412,
+      "approve_hi": 46.34876,
+      "disapprove_lo": 49.26351,
+      "disapprove_hi": 59.51373
+    },
+    {
+      "date": "2025-11-12",
+      "approve": 41.42052,
+      "disapprove": 54.98133,
+      "approve_lo": 36.70752,
+      "approve_hi": 46.13351,
+      "disapprove_lo": 49.51657,
+      "disapprove_hi": 60.4461
+    },
+    {
+      "date": "2025-11-13",
+      "approve": 41.25583,
+      "disapprove": 54.95828,
+      "approve_lo": 36.6665,
+      "approve_hi": 45.84516,
+      "disapprove_lo": 49.57969,
+      "disapprove_hi": 60.33688
+    },
+    {
+      "date": "2025-11-14",
+      "approve": 41.41002,
+      "disapprove": 54.84733,
+      "approve_lo": 36.5957,
+      "approve_hi": 46.22434,
+      "disapprove_lo": 49.4863,
+      "disapprove_hi": 60.20836
+    },
+    {
+      "date": "2025-11-15",
+      "approve": 41.41002,
+      "disapprove": 54.84733,
+      "approve_lo": 36.5957,
+      "approve_hi": 46.22434,
+      "disapprove_lo": 49.4863,
+      "disapprove_hi": 60.20836
+    },
+    {
+      "date": "2025-11-16",
+      "approve": 41.41002,
+      "disapprove": 54.84733,
+      "approve_lo": 36.5957,
+      "approve_hi": 46.22434,
+      "disapprove_lo": 49.4863,
+      "disapprove_hi": 60.20836
+    },
+    {
+      "date": "2025-11-17",
+      "approve": 41.65916,
+      "disapprove": 54.66748,
+      "approve_lo": 36.60219,
+      "approve_hi": 46.71613,
+      "disapprove_lo": 49.21717,
+      "disapprove_hi": 60.11778
+    },
+    {
+      "date": "2025-11-18",
+      "approve": 41.62681,
+      "disapprove": 55.02597,
+      "approve_lo": 36.83861,
+      "approve_hi": 46.41502,
+      "disapprove_lo": 49.89322,
+      "disapprove_hi": 60.15873
+    },
+    {
+      "date": "2025-11-19",
+      "approve": 41.52448,
+      "disapprove": 55.33823,
+      "approve_lo": 36.82116,
+      "approve_hi": 46.22779,
+      "disapprove_lo": 50.31655,
+      "disapprove_hi": 60.3599
+    },
+    {
+      "date": "2025-11-20",
+      "approve": 41.49535,
+      "disapprove": 55.56133,
+      "approve_lo": 37.004,
+      "approve_hi": 45.98669,
+      "disapprove_lo": 50.70354,
+      "disapprove_hi": 60.41911
+    },
+    {
+      "date": "2025-11-21",
+      "approve": 41.21164,
+      "disapprove": 55.92169,
+      "approve_lo": 36.37288,
+      "approve_hi": 46.0504,
+      "disapprove_lo": 50.87728,
+      "disapprove_hi": 60.96611
+    },
+    {
+      "date": "2025-11-22",
+      "approve": 41.21164,
+      "disapprove": 55.92169,
+      "approve_lo": 36.37288,
+      "approve_hi": 46.0504,
+      "disapprove_lo": 50.87728,
+      "disapprove_hi": 60.96611
+    },
+    {
+      "date": "2025-11-23",
+      "approve": 41.25238,
+      "disapprove": 56.21013,
+      "approve_lo": 36.4526,
+      "approve_hi": 46.05215,
+      "disapprove_lo": 51.10846,
+      "disapprove_hi": 61.31181
+    },
+    {
+      "date": "2025-11-24",
+      "approve": 41.35768,
+      "disapprove": 55.61026,
+      "approve_lo": 36.53708,
+      "approve_hi": 46.17828,
+      "disapprove_lo": 50.2258,
+      "disapprove_hi": 60.99472
+    },
+    {
+      "date": "2025-11-25",
+      "approve": 41.05623,
+      "disapprove": 55.35098,
+      "approve_lo": 36.21292,
+      "approve_hi": 45.89954,
+      "disapprove_lo": 49.93525,
+      "disapprove_hi": 60.76671
+    },
+    {
+      "date": "2025-11-26",
+      "approve": 41.18801,
+      "disapprove": 55.26289,
+      "approve_lo": 36.31546,
+      "approve_hi": 46.06055,
+      "disapprove_lo": 49.90451,
+      "disapprove_hi": 60.62127
+    },
+    {
+      "date": "2025-11-27",
+      "approve": 41.18801,
+      "disapprove": 55.26289,
+      "approve_lo": 36.31546,
+      "approve_hi": 46.06055,
+      "disapprove_lo": 49.90451,
+      "disapprove_hi": 60.62127
+    },
+    {
+      "date": "2025-11-28",
+      "approve": 41.18801,
+      "disapprove": 55.26289,
+      "approve_lo": 36.31546,
+      "approve_hi": 46.06055,
+      "disapprove_lo": 49.90451,
+      "disapprove_hi": 60.62127
+    },
+    {
+      "date": "2025-11-29",
+      "approve": 41.18801,
+      "disapprove": 55.26289,
+      "approve_lo": 36.31546,
+      "approve_hi": 46.06055,
+      "disapprove_lo": 49.90451,
+      "disapprove_hi": 60.62127
+    }
+  ]
+}

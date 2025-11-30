@@ -1,0 +1,176 @@
+/* Cards */
+.card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-4);
+  box-shadow: var(--shadow-sm);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: var(--fs-2);
+  margin-bottom: var(--space-2);
+}
+
+.kpi {
+  font-size: var(--fs-5);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.55rem 0.9rem;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  text-decoration: none;
+  font-weight: 600;
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+}
+
+.btn:hover {
+  filter: brightness(0.98);
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-primary {
+  background: var(--color-accent);
+  color: var(--color-accent-ink);
+  border-color: color-mix(in oklab, var(--color-accent) 60%, #000);
+}
+
+.btn-ghost {
+  background: transparent;
+}
+
+/* Chips */
+.chips {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.chip {
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  border-radius: 999px;
+  font-size: var(--fs-00);
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] {
+  background: color-mix(in oklab, var(--color-accent) 18%, var(--color-surface));
+  border-color: var(--color-accent);
+  color: var(--color-text);
+}
+
+/* Table */
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-00);
+}
+
+caption {
+  text-align: left;
+  padding: var(--space-3);
+  font-weight: 700;
+  font-size: var(--fs-1);
+}
+
+thead th {
+  text-align: left;
+  background: color-mix(in oklab, var(--color-surface) 70%, var(--color-bg));
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.6rem;
+}
+
+tbody td {
+  padding: 0.6rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+tbody tr:nth-child(2n) td {
+  background: color-mix(in oklab, var(--color-surface) 85%, var(--color-bg));
+}
+
+th[aria-sort="ascending"]::after {
+  content: " \2191";
+}
+
+th[aria-sort="descending"]::after {
+  content: " \2193";
+}
+
+/* Forms */
+.form-grid {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 680px;
+}
+
+.field {
+  display: grid;
+  gap: 0.35rem;
+}
+
+label {
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xs);
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+textarea {
+  min-height: 120px;
+}
+
+.help {
+  color: var(--color-muted);
+  font-size: var(--fs-00);
+}
+
+.field.error input,
+.field.error textarea,
+.field.error select {
+  border-color: var(--color-danger);
+}
+
+.field.valid input,
+.field.valid textarea,
+.field.valid select {
+  border-color: var(--color-success);
+}
+
+.form-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: var(--space-2);
+}

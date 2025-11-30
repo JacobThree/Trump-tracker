@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Wireframe Economy">
+  <style>
+    .box { fill: #f9f9fb; stroke: #444; stroke-width: 2; }
+    .text { font: 16px Arial, sans-serif; fill: #222; }
+    .title { font: bold 24px Arial, sans-serif; }
+  </style>
+  <rect x="20" y="20" width="1160" height="60" class="box"/>
+  <text x="40" y="60" class="title">Economy — Header/Nav</text>
+  <rect x="20" y="700" width="1160" height="60" class="box"/>
+  <text x="40" y="740" class="text">Footer</text>
+<rect x="40" y="120" width="520" height="180" class="box"/>
+<text x="50" y="144" class="text">KPI: Jobs (YoY)</text>
+<rect x="620" y="120" width="520" height="180" class="box"/>
+<text x="630" y="144" class="text">KPI: CPI (YoY)</text>
+<rect x="40" y="320" width="520" height="180" class="box"/>
+<text x="50" y="344" class="text">KPI: GDP</text>
+<rect x="620" y="320" width="520" height="180" class="box"/>
+<text x="630" y="344" class="text">KPI: Fed Funds Rate</text>
+<rect x="40" y="520" width="1100" height="130" class="box"/>
+<text x="50" y="544" class="text">Methods &amp; Sources</text>
+</svg>
