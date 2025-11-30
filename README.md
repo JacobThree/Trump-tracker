@@ -58,8 +58,6 @@ https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-tru
 
 Notes
 
-config.js (contains API key) is ignored and must not be committed.
-
 JSON data files are static snapshots used only for this project.
 
 This project is not official and is made purely for educational purposes.
